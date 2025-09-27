@@ -1,0 +1,17 @@
+D:\Esoft\Assignment Files\Database Design and Development\Part 2\FoodHub Database Interfaces\bin\Debug\FoodHub Database Interfaces.exe.config
+D:\Esoft\Assignment Files\Database Design and Development\Part 2\FoodHub Database Interfaces\bin\Debug\FoodHub Database Interfaces.exe
+D:\Esoft\Assignment Files\Database Design and Development\Part 2\FoodHub Database Interfaces\bin\Debug\FoodHub Database Interfaces.pdb
+D:\Esoft\Assignment Files\Database Design and Development\Part 2\FoodHub Database Interfaces\obj\Debug\FoodHub Database Interfaces.csproj.AssemblyReference.cache
+D:\Esoft\Assignment Files\Database Design and Development\Part 2\FoodHub Database Interfaces\obj\Debug\FoodHub_Database_Interfaces.Properties.Resources.resources
+D:\Esoft\Assignment Files\Database Design and Development\Part 2\FoodHub Database Interfaces\obj\Debug\FoodHub Database Interfaces.csproj.GenerateResource.cache
+D:\Esoft\Assignment Files\Database Design and Development\Part 2\FoodHub Database Interfaces\obj\Debug\FoodHub Database Interfaces.csproj.CoreCompileInputs.cache
+D:\Esoft\Assignment Files\Database Design and Development\Part 2\FoodHub Database Interfaces\obj\Debug\FoodHub Database Interfaces.exe
+D:\Esoft\Assignment Files\Database Design and Development\Part 2\FoodHub Database Interfaces\obj\Debug\FoodHub Database Interfaces.pdb
+D:\Esoft\Assignment Files\Database Design and Development\Part 2\FoodHub Database Interfaces\obj\Debug\FoodHub_Database_Interfaces.Assignments.resources
+D:\Esoft\Assignment Files\Database Design and Development\Part 2\FoodHub Database Interfaces\obj\Debug\FoodHub_Database_Interfaces.Item_Details.resources
+D:\Esoft\Assignment Files\Database Design and Development\Part 2\FoodHub Database Interfaces\obj\Debug\FoodHub_Database_Interfaces.Customer.resources
+D:\Esoft\Assignment Files\Database Design and Development\Part 2\FoodHub Database Interfaces\obj\Debug\FoodHub_Database_Interfaces.Motorbikes.resources
+D:\Esoft\Assignment Files\Database Design and Development\Part 2\FoodHub Database Interfaces\obj\Debug\FoodHub_Database_Interfaces.Orders.resources
+D:\Esoft\Assignment Files\Database Design and Development\Part 2\FoodHub Database Interfaces\obj\Debug\FoodHub_Database_Interfaces.Home.resources
+D:\Esoft\Assignment Files\Database Design and Development\Part 2\FoodHub Database Interfaces\obj\Debug\FoodHub_Database_Interfaces.Delivery_Assigned.resources
+D:\Esoft\Assignment Files\Database Design and Development\Part 2\FoodHub Database Interfaces\obj\Debug\FoodHub_Database_Interfaces.Rider.resources
